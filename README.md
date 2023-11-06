@@ -56,7 +56,6 @@ To set up and run this User Information Management System on your local machine,
 - GitHub: [@Mahram Hossain](https://github.com/mhnazary)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/mahram-hossain-nazary-515686204/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Folder Structure
 
@@ -70,7 +69,6 @@ The project's folder structure is as follows:
 
 - `styles.css`: CSS file for styling the web pages.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 
@@ -79,15 +77,11 @@ The project's folder structure is as follows:
 3. The "View Users" link will display a list of all users with options to update or delete each user's information.
 4. Update or delete user records as needed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests to improve the system or fix any bugs you encounter.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## License
 
 This User Information Management System is open-source and available under the [MIT License](LICENSE). You are free to use and modify it for your needs.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
